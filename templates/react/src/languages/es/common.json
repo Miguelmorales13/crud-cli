@@ -1,0 +1,208 @@
+{
+  "forms": {
+    "roles": {
+      "type": "Tipo",
+      "access": "Accesos",
+      "cancel": "Cancelar",
+      "name": "Nombre",
+      "submit": "Ajustarse",
+      "title": "Rol",
+      "write": "E"
+    },
+    "changePassword": {
+      "lastPassword": "Contrasenia actual",
+      "newPassword": "Nueva contrasenia",
+      "repeatNewPassword": "repetir contrasenia",
+      "button": "Confirmar"
+    },
+    "signIn": {
+      "button": "Iniciar sesion",
+      "password": "Contrasenia",
+      "user": "Usuario"
+    },
+    "signUp": {
+      "button": "Registrarse",
+      "password": "Contrasenia",
+      "name": "Nombre",
+      "email": "Correo",
+      "lastName": "Apellido paterno",
+      "secondLastName": "Apellido materno",
+      "socialReasonEnterprise": "Empresa - Razon social",
+      "nameEnterprise": "Empresa - nombre"
+    },
+    "users": {
+      "active": "Activo",
+      "cancel": "Cancelar",
+      "email": "Email",
+      "lastName": "Apellido",
+      "name": "Nombre",
+      "submit": "Ajustarse",
+      "title": "Usuario"
+    },
+    "supplies": {
+      "name": "Nombre",
+      "type": "Tipo",
+      "quantityForUnit": "Cantidad por unidad",
+      "inStock": "En almacen"
+    },
+    "categories": {
+      "name": "Nombre",
+      "description": "Descripcion"
+    },
+    "products": {
+      "name": "Nombre",
+      "product": "Product",
+      "images": "Images",
+      "quantityAvailable": "Cantidad disponible",
+      "categoryId": "Categoria",
+      "supplyId": "Insumo",
+      "supplies": "Receta",
+      "quantity": "Cantidad",
+      "price": "Precio"
+    },
+    "orders": {
+      "openingTime": "Inicio",
+      "closingTime": "Termino",
+      "status": "Estatus",
+      "tableId": "Mesa"
+    },
+    "tables": {
+      "name": "Nombre",
+      "status": "Estatus",
+      "active": "Activo"
+    }
+  },
+  "modals": {
+    "cancel": "Cancelar",
+    "done": "Confirmar"
+  },
+  "name": {
+    "accesses": {
+      "categories": "Categorias",
+      "menu": "Menu",
+      "supplies": "Insumos",
+      "orders": "Ordenes",
+      "tables": "Mesas",
+      "products": "Productos",
+      "subcategories": "Subcategorias",
+      "roles": "Roles",
+      "users": "Usuarios"
+    },
+    "modules": {
+      "sales": "Ventas",
+      "inventory": "Inventario",
+      "management": "Management",
+      "security": "Seguridad"
+    }
+  },
+  "tables": {
+    "active": "Activo",
+    "inactive": "Inactivo",
+    "find": "Buscar ...",
+    "firstPage": "Primera pagina",
+    "lastPage": "Ultima pagina",
+    "loading": "Oye, espera un minuto ⌚ estoy cargando 😒",
+    "next": "Siguiente página",
+    "noData": "Upss ... lo siento, no tenemos datos 👀",
+    "previous": "Página anterior",
+    "roles": {
+      "id": "Carné de identidad",
+      "name": "Nombre",
+      "options": "Opciones",
+      "title": "Roles"
+    },
+    "supplies": {
+      "title": "Insumos",
+      "id": "Id",
+      "inStock": "Almacen",
+      "quantityForUnit": "Cantidad por unidad",
+      "type": "Tipo",
+      "name": "Nombre",
+      "options": "Opciones"
+    },
+    "categories": {
+      "title": "Categorias",
+      "id": "Id",
+      "name": "Nombre",
+      "options": "Opciones"
+    },
+    "products": {
+      "title": "Productos",
+      "id": "Id",
+      "name": "Nombre",
+      "quantityAvailable": "Disponible",
+      "category": "Categoria",
+      "options": "Opciones"
+    },
+    "rowsPerPage": "Filas por página",
+    "users": {
+      "email": "Correo",
+      "active": "Estatus",
+      "id": "Id",
+      "name": "Nombre",
+      "options": "Opciones",
+      "rol": "Rol",
+      "title": "Usuarios"
+    },
+    "orders": {
+      "title": "Orders",
+      "id": "Id",
+      "openingTime": "Opening",
+      "closingTime": "Closing",
+      "table": "Table",
+      "status": "Status",
+      "options": "Options"
+    },
+    "tables": {
+      "title": "Tables",
+      "id": "Id",
+      "name": "Name",
+      "status": "Status",
+      "options": "Options"
+    }
+  },
+  "pages": {
+    "signIn": {
+      "forgotPassword": "Olvidaste tu contrasenia?",
+      "dontHaveAccount": "Aun no tienes una cuenta? Registrate"
+    }
+  },
+  "titles": {
+    "changePassword": "Cambiar contrasenia",
+    "roles": {
+      "add": "Agregar rol",
+      "delete": "Eliminar rol",
+      "update": "Actualizar rol"
+    },
+    "supplies": {
+      "add": "Agregar insumo",
+      "delete": "Eliminar insumo",
+      "update": "Actualizar insumo"
+    },
+    "categories": {
+      "add": "Agregar categoria",
+      "delete": "Eliminar categoria",
+      "update": "Actualizar categoria"
+    },
+    "products": {
+      "add": "Agregar producto",
+      "delete": "Eliminar producto",
+      "update": "Actualizar producto"
+    },
+    "orders": {
+      "add": "Agregar orden",
+      "delete": "Eliminar orden",
+      "update": "Actualizar orden"
+    },
+    "tables": {
+      "add": "Agregar mesa",
+      "delete": "Eliminar mesa",
+      "update": "Actualizar mesa"
+    },
+    "users": {
+      "add": "Agregar usuario",
+      "delete": "Eliminar usuario",
+      "update": "Actualizar usuario"
+    }
+  }
+}

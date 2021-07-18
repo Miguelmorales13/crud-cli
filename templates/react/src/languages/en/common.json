@@ -1,0 +1,216 @@
+{
+  "forms": {
+    "let_it_go": "Sueltalo 👀",
+    "drop_file": "Sueltalo 👀",
+    "roles": {
+      "access": "Accesses",
+      "type": "Type",
+      "cancel": "Cancel",
+      "name": "Name",
+      "submit": "Conform",
+      "title": "Rol",
+      "write": "W"
+    },
+    "changePassword": {
+      "lastPassword": "Password now",
+      "newPassword": "New password",
+      "repeatNewPassword": "Repeat password",
+      "button": "Confirm"
+    },
+    "signIn": {
+      "button": "Login",
+      "password": "Password",
+      "user": "User"
+    },
+    "signUp": {
+      "button": "Sign up",
+      "password": "Password",
+      "name": "Name",
+      "email": "Email",
+      "lastName": "Last Name",
+      "secondLastName": "Second Last Name",
+      "socialReasonEnterprise": "Enterprise - Social reason",
+      "nameEnterprise": "Enterprise - name"
+    },
+    "users": {
+      "active": "Active",
+      "rol": "Rol",
+      "cancel": "Cancel",
+      "email": "Email",
+      "lastName": "Last name",
+      "name": "Name",
+      "submit": "Conform",
+      "title": "User",
+      "secondLastName": "Second last name",
+      "rolId": "Rol"
+    },
+    "supplies": {
+      "name": "Name",
+      "type": "Type",
+      "quantityForUnit": "Quantity for unity",
+      "inStock": "In stock"
+    },
+    "categories": {
+      "name": "Name",
+      "description": "Description"
+    },
+    "products": {
+      "name": "Name",
+      "product": "Product",
+      "images": "Images",
+      "supplies": "Recipe",
+      "quantityAvailable": "Quantity available",
+      "categoryId": "Category",
+      "supplyId": "Supply",
+      "quantity": "Quantity",
+      "price": "Price"
+    },
+    "orders": {
+      "openingTime": "Opening",
+      "closingTime": "Closed",
+      "status": "Status",
+      "tableId": "Table"
+    },
+    "tables": {
+      "name": "Name",
+      "status": "Status",
+      "active": "Active"
+    }
+  },
+  "modals": {
+    "cancel": "Cancel",
+    "done": "Confirm"
+  },
+  "name": {
+    "accesses": {
+      "categories": "Categories",
+      "products": "Products",
+      "menu": "Menu",
+      "roles": "Roles",
+      "supplies": "Supplies",
+      "orders": "Orders",
+      "tables": "Tables",
+      "subcategories": "Subcategories",
+      "users": "Users"
+    },
+    "modules": {
+      "inventory": "Inventory",
+      "sales": "Sales",
+      "management": "Management",
+      "security": "Security"
+    }
+  },
+  "tables": {
+    "find": "Find ...",
+    "active": "Active",
+    "inactive": "Inactive",
+    "firstPage": "First page",
+    "lastPage": "Last page",
+    "loading": "Hey, wait a one minute ⌚ i'm loading 😒",
+    "next": "Next page",
+    "noData": "Upss... sorry, we don't have a data 👀",
+    "previous": "Previous page",
+    "roles": {
+      "id": "Id",
+      "name": "Name",
+      "options": "Options",
+      "title": "Roles"
+    },
+    "supplies": {
+      "title": "Supplies",
+      "id": "Id",
+      "inStock": "In stock",
+      "quantityForUnit": "Quantity for unit",
+      "type": "Type",
+      "name": "Name",
+      "options": "Options"
+    },
+    "categories": {
+      "title": "Categories",
+      "id": "Id",
+      "name": "Name",
+      "options": "Options"
+    },
+    "products": {
+      "title": "Productos",
+      "id": "Id",
+      "name": "Nombre",
+      "quantityAvailable": "Disponible",
+      "category": "Categoria",
+      "options": "Opciones"
+    },
+    "orders": {
+      "title": "Ordenes",
+      "id": "Id",
+      "openingTime": "Apertura",
+      "closingTime": "Cierre",
+      "table": "Mesa",
+      "status": "Estatus",
+      "options": "Opciones"
+    },
+    "tables": {
+      "title": "Mesas",
+      "id": "Id",
+      "name": "Nombre",
+      "status": "Estatus",
+      "options": "Opciones"
+    },
+    "rowsPerPage": "Rows per page",
+    "users": {
+      "email": "Email",
+      "active": "Status",
+      "id": "Id",
+      "name": "Name",
+      "options": "Options",
+      "rol": "Rol",
+      "title": "Users"
+    }
+  },
+  "pages": {
+    "signIn": {
+      "forgotPassword": "Forgot password?",
+      "dontHaveAccount": "Don't have an account? Sign Up"
+    },
+    "signUp": {
+      "haveAccount": "I have an account, Sign In"
+    }
+  },
+  "titles": {
+    "changePassword": "Change password",
+    "roles": {
+      "add": "Add role",
+      "delete": "Delete role",
+      "update": "Update role"
+    },
+    "supplies": {
+      "add": "Add supply",
+      "delete": "Delete supply",
+      "update": "Update supply"
+    },
+    "categories": {
+      "add": "Add category",
+      "delete": "Delete category",
+      "update": "Update category"
+    },
+    "products": {
+      "add": "Add product",
+      "delete": "Delete product",
+      "update": "Update product"
+    },
+    "orders": {
+      "add": "Add order",
+      "delete": "Delete order",
+      "update": "Update order"
+    },
+    "tables": {
+      "add": "Add table",
+      "delete": "Delete table",
+      "update": "Update table"
+    },
+    "users": {
+      "add": "Add user",
+      "delete": "Delete user",
+      "update": "Update user"
+    }
+  }
+}
